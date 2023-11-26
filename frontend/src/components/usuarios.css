@@ -1,0 +1,21 @@
+/* Estilo para o componente Usuarios */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Estilo para o componente Usuario */
+.Usuario {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.Usuario h2 {
+  color: #333;
+}
+
+.Usuario p {
+  margin: 5px 0;
+}
